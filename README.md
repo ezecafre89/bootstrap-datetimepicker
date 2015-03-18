@@ -1,6 +1,8 @@
 # Bootstrap 3 Date/Time Picker
 ![GitHub version](https://badge.fury.io/gh/Eonasdan%2Fbootstrap-datetimepicker.png)&nbsp;&nbsp;&nbsp;![Travis](https://travis-ci.org/Eonasdan/bootstrap-datetimepicker.svg?branch=development)
 
+###This is a Fork from http://eonasdan.github.io/bootstrap-datetimepicker/ including the build folder on the npm distribution
+
 ![DateTimePicker](http://i.imgur.com/nfnvh5g.png)
 
 ## [View the manual and demos](http://eonasdan.github.io/bootstrap-datetimepicker/)
@@ -12,10 +14,10 @@ v3 is going into an archive state. Please be sure to check the documents. v4 has
 
 ## Submitting Issues
 If you have issues, please check the following first:
-* Have you read the docs? 
+* Have you read the docs?
 * Do you have the latest version of momentjs?
 * Do you have the latest version of jQuery?
-* Please test and/or fork [this jsfiddle](http://jsfiddle.net/Eonasdan/0Ltv25o8/) with an example of your issue before you post an issue here. 
+* Please test and/or fork [this jsfiddle](http://jsfiddle.net/Eonasdan/0Ltv25o8/) with an example of your issue before you post an issue here.
 
 ## Where do you use this?
 I'd love to know if your public site is using this plugin and list your logo on the documentation site. Please email me `eonasdan at outlook dot com`. Do not submit issue/feature request to this email, they will be ignored.
